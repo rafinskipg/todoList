@@ -1,6 +1,12 @@
 TodoList
 =========
-API implementation with Mongoose, ExpressJS tested with Mocha, Supertest & Chai-Should
+API implementation with:
+
+  - [Mocha](http://visionmedia.github.io/mocha/)
+  - [SuperTest](https://github.com/visionmedia/supertest)
+  - [Chai](http://chaijs.com/)
+  - [ExpressJS](http://expressjs.com/)
+  - [Mongoose](https://github.com/LearnBoost/mongoose)
 
 
 API
@@ -44,11 +50,4 @@ TODO
 I haven't implemented session management.
 
 
-RESOURCES
-===========
 
-[Mocha](http://visionmedia.github.io/mocha/)
-[SuperTest](https://github.com/visionmedia/supertest)
-[Chai](http://chaijs.com/)
-[ExpressJS](http://expressjs.com/)
-[Mongoose](https://github.com/LearnBoost/mongoose)

@@ -2,7 +2,7 @@ TodoList
 =========
 API implementation with:
 
-  - [Mocha](http://visionmedia.github.io/mocha/)
+  - [Mocha](http://mochajs.org/)
   - [SuperTest](https://github.com/visionmedia/supertest)
   - [Chai](http://chaijs.com/)
   - [ExpressJS](http://expressjs.com/)
